@@ -81,6 +81,12 @@ Node added successfully!
 
 Linked List: 10 -> 20 -> NULL
 sample output screenshots:-
+<img width="895" height="520" alt="image" src="https://github.com/user-attachments/assets/54f3fa4c-a1c5-4ddc-8c93-aadd13e56c26" />
+<img width="1100" height="572" alt="image" src="https://github.com/user-attachments/assets/c969e2dd-5d75-446f-9089-33cfb370b046" />
+<img width="1125" height="592" alt="image" src="https://github.com/user-attachments/assets/2d7d3dd6-ddb2-4d1c-b063-9262d0c2ea3f" />
+<img width="1174" height="662" alt="image" src="https://github.com/user-attachments/assets/4bf5eedc-9e1d-4736-beac-3645bee10b56" />
+Demo Video:
+https://drive.google.com/file/d/10DuJWj7gXLBCmczpTQ9QrAAzZ8EMLBJr/view?usp=drive_link
 
-Screenshot (14)Screenshot (15)Screenshot (16)Screenshot (17)
-🎬 Demo Video:-
+
+
